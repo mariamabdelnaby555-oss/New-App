@@ -1,0 +1,10 @@
+.ft {
+  text-align: center;
+  padding: 18px 16px;
+  color: #ffffff;
+  background: linear-gradient(135deg, #7c3aed, #ec4899);
+}
+
+.ft p {
+  margin: 0;
+}

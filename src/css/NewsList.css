@@ -1,0 +1,23 @@
+.mn {
+  max-width: 1100px;
+  min-height: 65vh;
+  margin: 0 auto;
+  padding: 24px 16px 40px;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 20px;
+}
+
+.message {
+  text-align: center;
+  color: #7a6a92;
+  font-size: 1.15rem;
+  padding: 70px 16px;
+}
+
+.message.error {
+  color: #d6336c;
+}

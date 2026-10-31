@@ -1,0 +1,11 @@
+.hd {
+  text-align: center;
+  padding: 24px 16px 4px;
+  color: #ffffff;
+  background: linear-gradient(135deg, #7c3aed, #ec4899);
+}
+
+.hd h1 {
+  margin: 0 0 14px;
+  font-size: 2rem;
+}
